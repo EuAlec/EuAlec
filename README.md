@@ -1,6 +1,6 @@
 ##👩🏻‍💻 Alexander 👩🏻‍💻
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor BackEnd`**
 
 Me chamo Alexander de Oliveira Ribeiro, tenho 28 anos e sou natural do Rio de Janeiro. Já formado em Relações Internacionais e atualmente em mudança de carreira, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac Rio.
 
