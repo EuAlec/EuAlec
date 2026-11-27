@@ -8,7 +8,7 @@
 
 ### 🙋🏻‍♂️ Sobre mim
 
-Me chamo **Alexander de Oliveira Ribeiro**, tenho 28 anos e sou natural do **Rio de Janeiro**.
+Me chamo **Alexander de Oliveira Ribeiro**, tenho 29 anos e sou natural do **Rio de Janeiro**.
 
 - 🎓 Formado em **Relações Internacionais**
 - 🔄 Em **mudança de carreira** para a área de tecnologia
@@ -31,10 +31,6 @@ Me chamo **Alexander de Oliveira Ribeiro**, tenho 28 anos e sou natural do **Rio
   &nbsp;&nbsp;
   <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
-
-| Front-end | Back-end | Ferramentas |
-|:---:|:---:|:---:|
-| HTML · CSS · JavaScript · Bootstrap | Python | Git |
 
 ---
 
