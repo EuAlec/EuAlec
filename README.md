@@ -1,4 +1,4 @@
-##👩🏻‍💻 Alexander 👩🏻‍💻
+👩🏻‍💻 Alexander 👩🏻‍💻
 
 **`Desenvolvedor FullStack`**
 
